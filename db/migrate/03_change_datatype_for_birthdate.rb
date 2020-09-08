@@ -1,0 +1,1 @@
+class ChangeDatatpyeForBirthdate < ActiveRecord::Migration
